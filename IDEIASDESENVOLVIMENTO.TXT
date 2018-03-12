@@ -1,0 +1,6 @@
+Primeiros passos para o desenvolvimento do PDV em JAVA.
+
+Fazer a classe que irá ler e escrever em qualquer arquivo.
+	Tera dois metodos, um para leitura do arquivo e outro para a escrita.
+	O metodoto de leitura irá receber o nome do arquivo junto com o caminho e devolver um array daquele arquivo. 
+	O metodo de escrita irá receber linha por linha e acrescentar no arquivo
